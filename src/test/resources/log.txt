@@ -1,0 +1,69 @@
+2017-08-07 13:31:21 INFO  GNAbstractTest:50 - This is debug
+2017-08-07 13:31:21 INFO  GNAbstractTest:53 - urlr : http://localhost:7103
+2017-08-07 13:31:52 INFO  GNAbstractTest:88 - isantos117711331@gruponazan.com
+2017-08-07 13:36:30 INFO  GNAbstractTest:123 - 72153114-b800-4501-84f3-16bd6911159d
+2017-08-10 11:23:19 INFO  GNAbstractTest:50 - This is debug
+2017-08-10 11:23:19 INFO  GNAbstractTest:53 - urlr : http://localhost:7103
+2017-08-10 11:23:40 INFO  GNAbstractTest:88 - isantos117741123@gruponazan.com
+2017-08-10 11:24:09 INFO  GNAbstractTest:123 - b9ac2865-6969-439e-a85b-18a30b9668e7
+2017-08-11 10:15:59 INFO  GNAbstractTest:48 - url : http://localhost:7103
+2017-08-11 10:16:36 INFO  GNAbstractTest:83 - isantos117751016@gruponazan.com
+2017-08-11 10:17:03 INFO  GNAbstractTest:118 - 9cc2267c-3ea1-4bf6-9f09-14c976fc3bbd
+2017-08-21 13:34:25 INFO  GNAbstractTest:48 - url : http://localhost:7103
+2017-08-21 13:34:42 INFO  GNAbstractTest:83 - isantos117711334@gruponazan.com
+2017-08-21 13:35:24 INFO  GNAbstractTest:118 - f49c270b-f9a1-439e-aea2-0163cc71a181
+2017-08-21 15:31:13 INFO  GNAbstractTest:49 - url : http://129.144.156.80
+2017-08-21 15:32:09 INFO  GNAbstractTest:49 - url : http://129.144.156.80:7103
+2017-08-21 15:32:29 INFO  GNAbstractTest:84 - isantos117711532@gruponazan.com
+2017-08-21 16:16:44 INFO  GNAbstractTest:50 - url : http://localhost:7203
+2017-08-21 16:17:35 INFO  GNAbstractTest:50 - url : http://localhost:7103
+2017-08-21 16:17:52 INFO  GNAbstractTest:85 - isantos117711617@gruponazan.com
+2017-08-21 16:19:13 INFO  GNAbstractTest:120 - 8482097d-26c5-46f5-9d3f-03f408c21f63
+2017-08-22 08:46:26 INFO  GNAbstractTest:50 - url : http://localhost:7103
+2017-08-22 08:46:42 INFO  GNAbstractTest:85 - isantos11772846@gruponazan.com
+2017-08-22 08:47:17 INFO  GNAbstractTest:120 - df17f9fa-10fd-41ce-8be2-9978d6411e65
+2017-08-22 13:28:43 INFO  GNAbstractTest:51 - url : http://172.31.55.30:7103
+2017-08-22 13:30:16 INFO  GNAbstractTest:51 - url : http://172.31.55.30:7103
+2017-08-22 13:53:20 INFO  GNAbstractTest:51 - url : http://172.31.55.30:7103
+2017-08-22 13:54:12 INFO  GNAbstractTest:86 - isantos117721354@gruponazan.com
+2017-08-22 13:56:04 INFO  GNAbstractTest:121 - ceae2123-6d20-437f-b401-fa6f2f571c4b
+2017-08-23 14:50:59 INFO  GNAbstractTest:51 - url : http://129.144.156.80:7103
+2017-08-23 14:51:17 INFO  GNAbstractTest:86 - isantos117731451@gruponazan.com
+2017-08-23 14:51:58 INFO  GNAbstractTest:121 - 4cfcf19b-92cd-40e7-be61-4be94feabdab
+2017-08-23 16:34:22 INFO  GNAbstractTest:53 - url : http://localhost:7103
+2017-08-23 16:34:42 INFO  GNAbstractTest:88 - isantos117731634@gruponazan.com
+2017-08-23 16:35:08 INFO  GNAbstractTest:123 - e8524e5a-d7a7-430c-99c5-bbee5fc1b3b7
+2017-08-25 13:07:47 INFO  GNAbstractTest:53 - url : http://localhost:7103
+2017-08-25 13:08:04 INFO  GNAbstractTest:88 - isantos11775138@gruponazan.com
+2017-08-25 13:15:51 INFO  GNAbstractTest:53 - url : http://localhost:7103
+2017-08-25 13:16:09 INFO  GNAbstractTest:89 - isantos@gruponazan.com
+2017-08-25 13:16:31 INFO  GNAbstractTest:124 - bf4268ba-7d74-42fd-a5d2-6773384112a8
+2017-08-25 15:22:13 INFO  GNAbstractTest:53 - url : http://129.144.156.80:7103
+2017-08-25 15:22:36 INFO  GNAbstractTest:89 - isantos@gruponazan.com
+2017-08-25 15:23:00 INFO  GNAbstractTest:124 - cba0f078-4565-49a0-ba49-f8f2d3c81dc7
+2017-08-25 15:47:35 INFO  GNAbstractTest:57 - url : http://172.31.55.30:7103
+2017-08-25 15:47:57 INFO  GNAbstractTest:93 - isantos@gruponazan.com
+2017-08-25 15:48:42 INFO  GNAbstractTest:128 - 01693c49-c2bb-4d5e-83dc-3eeac9e9ebdd
+2017-08-29 11:16:06 INFO  GNAbstractTest:56 - url : http://localhost:7103
+2017-08-29 11:16:25 INFO  GNAbstractTest:92 - isantos@gruponazan.com
+2017-08-29 11:16:52 INFO  GNAbstractTest:127 - bf4268ba-7d74-42fd-a5d2-6773384112a8
+2017-08-29 12:48:11 INFO  GNAbstractTest:56 - url : http://localhost:7103
+2017-08-29 12:48:29 INFO  GNAbstractTest:92 - isantos@gruponazan.com
+2017-08-29 12:48:52 INFO  GNAbstractTest:127 - bf4268ba-7d74-42fd-a5d2-6773384112a8
+2017-08-29 12:53:17 INFO  GNAbstractTest:56 - url : http://localhost:7103
+2017-08-29 12:53:37 INFO  GNAbstractTest:92 - isantos2017AUGUST291253@mcfadyen.com
+2017-08-29 14:42:29 INFO  GNAbstractTest:56 - url : http://localhost:7103
+2017-08-29 14:50:55 INFO  GNAbstractTest:56 - url : http://localhost:7103
+2017-08-29 14:51:14 INFO  GNAbstractTest:92 - isantos20178291450@mcfadyen.com
+2017-08-29 14:51:44 INFO  GNAbstractTest:127 - 9b070f8d-84d9-4d85-b32a-8a03fc163071
+2017-08-30 14:33:42 INFO  GNAbstractTest:56 - url : http://129.144.156.80:7103
+2017-08-30 14:34:04 INFO  GNAbstractTest:92 - isantos20178301433@mcfadyen.com
+2017-08-30 14:37:36 INFO  GNAbstractTest:56 - url : http://129.144.156.80:7103
+2017-08-30 14:37:56 INFO  GNAbstractTest:92 - isantos20178301437@mcfadyen.com
+2017-08-30 15:21:45 INFO  GNAbstractTest:56 - url : http://129.144.156.80:7103
+2017-08-30 15:23:05 INFO  GNAbstractTest:56 - url : http://129.144.156.80:7103
+2017-08-30 15:23:26 INFO  GNAbstractTest:92 - isantos20178301523@mcfadyen.com
+2017-08-30 15:23:56 INFO  GNAbstractTest:127 - fe8003c6-39e2-4e86-92bb-42cdbf954747
+2017-11-21 14:01:09 INFO  GNAbstractTest:56 - url : http://172.21.10.15:7103
+2017-11-21 14:02:25 INFO  GNAbstractTest:56 - url : http://172.21.10.15:7103
+2017-11-21 14:03:51 INFO  GNAbstractTest:56 - url : http://172.21.10.15:7103

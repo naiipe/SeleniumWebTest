@@ -1,0 +1,8 @@
+2017-08-07 11:06:28 INFO  GNAbstractTest:53 - This is debug
+2017-08-07 11:06:28 INFO  GNAbstractTest:56 - urlr : http://localhost:7103
+2017-08-07 11:07:01 INFO  GNAbstractTest:91 - isantos11771117@gruponazan.com
+2017-08-07 11:08:15 INFO  GNAbstractTest:126 - a9997b0a-4c9a-4a49-b866-c8ef0b3077b2
+2017-08-07 11:24:12 INFO  GNAbstractTest:50 - This is debug
+2017-08-07 11:24:12 INFO  GNAbstractTest:53 - urlr : http://localhost:7103
+2017-08-07 11:24:44 INFO  GNAbstractTest:88 - isantos117711124@gruponazan.com
+2017-08-07 11:28:13 INFO  GNAbstractTest:123 - 39b912ac-623d-4bfc-81d2-701bf9883289
